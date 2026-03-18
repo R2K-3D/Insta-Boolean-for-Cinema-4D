@@ -19,7 +19,7 @@
 | Script | Operation | Description |
 |---|:---:|---|
 | `Insta_Subtract_v1.py` | <img width="64" height="64" alt="Insta_Substract_v1" src="https://github.com/user-attachments/assets/b47d9199-613c-4efa-a8ae-ccb53f80feb1" />| Creates a Boolean generator in **A Subtract B** mode. |
-| `Insta_Union_v1.py` | ➕ | Creates a Boolean generator in **A Union B** mode. |
+| `Insta_Union_v1.py` |<img width="64" height="64" alt="Insta_Union_v1" src="https://github.com/user-attachments/assets/754e59cc-8237-4618-93d7-c58b3e4c0552" />| Creates a Boolean generator in **A Union B** mode. |
 | `Insta_Intersect_v1.py` | ✖️ | Creates a Boolean generator in **A Intersect B** mode. |
 | `Insta_Without_v1.py` | ➗ | Creates a Boolean generator in **A Without B** mode. |
 
