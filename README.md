@@ -9,7 +9,10 @@
 
 *A set of Python scripts for Maxon Cinema 4D that significantly speeds up the workflow of creating and managing Boolean Generators.*
 
-[Features](#-key-features) • [Installation](#%EF%B8%8F-installation) • [Usage](#-usage) • [Compatibility](#-compatibility)
+
+https://github.com/user-attachments/assets/18bff626-820d-4f33-8db2-edd7df8f900f
+
+
 
 </div>
 
