@@ -54,7 +54,8 @@
    *(Or go to **Edit -> Preferences -> Open Preferences Folder** and navigate to the `library/scripts` folder)*.
 3. Drop the `.py` script files into this folder.
 4. Restart Cinema 4D or go to **Extensions -> User Scripts -> Reload Python Plugins**.
-5. Customization: You can now drag these scripts into your custom UI palettes or assign hotkeys via the **Commander** `(Shift + C)`.
+5. Customization: You can now drag these scripts into your custom UI palettes or assign hotkeys via the **Commander** `(Shift + 12)`.
+6. Assign hot keys (more convenient) at your discretion
 
 <br>
 
@@ -74,7 +75,7 @@ If you select an **existing Boolean generator** as your first object, running th
 
 ## 💻 Compatibility
 
-Written specifically for the modern Python API in newer versions of Maxon Cinema 4D (S22 / R23 and newer recommended).
+Written specifically for the modern Python API in newer versions of Maxon Cinema 4D
 
 ---
 
