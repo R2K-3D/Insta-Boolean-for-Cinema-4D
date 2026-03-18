@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/18bff626-820d-4f33-8db2-edd7df8f900f
 
 ## ⚙️ Installation
 
-0. 1. Download the latest release from the [Releases](../../releases) page
+0. Download the latest release from the [Releases](../../releases) page
 1. Open Cinema 4D.
 2. Go to **Extensions -> User Scripts -> Script Folder...**  
    *(Or go to **Edit -> Preferences -> Open Preferences Folder** and navigate to the `library/scripts` folder)*.
