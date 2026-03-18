@@ -22,10 +22,10 @@ https://github.com/user-attachments/assets/18bff626-820d-4f33-8db2-edd7df8f900f
 
 | Script | Operation | Description |
 |---|:---:|---|
-| `Insta_Subtract_v1.py` | <img width="64" height="64" alt="Insta_Substract_v1" src="https://github.com/user-attachments/assets/b47d9199-613c-4efa-a8ae-ccb53f80feb1" />| Creates a Boolean generator in **A Subtract B** mode. |
-| `Insta_Union_v1.py` |<img width="64" height="64" alt="Insta_Union_v1" src="https://github.com/user-attachments/assets/754e59cc-8237-4618-93d7-c58b3e4c0552" />| Creates a Boolean generator in **A Union B** mode. |
-| `Insta_Intersect_v1.py` |<img width="64" height="64" alt="Insta_Intersect_v1" src="https://github.com/user-attachments/assets/cad4e705-a23f-477e-a27c-5a01123e1154" />| Creates a Boolean generator in **A Intersect B** mode. |
-| `Insta_Without_v1.py` |<img width="64" height="64" alt="Insta_Without_v1" src="https://github.com/user-attachments/assets/7c49465d-c55c-4611-ad8c-a7f71a8eb2d4" />| Creates a Boolean generator in **A Without B** mode. |
+| `Insta_Subtract.py` | <img width="64" height="64" alt="Insta_Substract_v1" src="https://github.com/user-attachments/assets/b47d9199-613c-4efa-a8ae-ccb53f80feb1" />| Creates a Boolean generator in **A Subtract B** mode. |
+| `Insta_Union.py` |<img width="64" height="64" alt="Insta_Union_v1" src="https://github.com/user-attachments/assets/754e59cc-8237-4618-93d7-c58b3e4c0552" />| Creates a Boolean generator in **A Union B** mode. |
+| `Insta_Intersect.py` |<img width="64" height="64" alt="Insta_Intersect_v1" src="https://github.com/user-attachments/assets/cad4e705-a23f-477e-a27c-5a01123e1154" />| Creates a Boolean generator in **A Intersect B** mode. |
+| `Insta_Without.py` |<img width="64" height="64" alt="Insta_Without_v1" src="https://github.com/user-attachments/assets/7c49465d-c55c-4611-ad8c-a7f71a8eb2d4" />| Creates a Boolean generator in **A Without B** mode. |
 
 ---
 
