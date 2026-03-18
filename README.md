@@ -5,6 +5,7 @@
 [![Cinema 4D](https://img.shields.io/badge/Cinema%204D-Compatible-blue?style=for-the-badge&logo=maxon)](https://www.maxon.net/)
 [![Python](https://img.shields.io/badge/Python-Script-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/SPluzh/SPVideoCoursesPlayer/total)](https://github.com/SPluzh/SPVideoCoursesPlayer/releases)
 
 *A set of Python scripts for Maxon Cinema 4D that significantly speeds up the workflow of creating and managing Boolean Generators.*
 
